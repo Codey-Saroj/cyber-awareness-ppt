@@ -1,2 +1,16 @@
-# cyber-awareness-ppt
- Presentation on Cybersecurity Awareness for Student
+# Cyber Awareness Presentation 🎓
+
+This presentation was created as part of Cybersecurity Awareness Month at Dev Sanskriti Vishwavidyalaya.
+
+📂 **Download the PPT**  
+➡ [Click here to download](./Cyber_Awareness_Saroj.pptx)
+
+## 🔐 Topics Covered
+- Strong Password Habits
+- Phishing & Scams
+- Safe Social Media Use
+- Mobile & WiFi Safety
+- Reporting Cyber Threats
+
+📅 Date: April 2025  
+👨‍💻 Author: Saroj
